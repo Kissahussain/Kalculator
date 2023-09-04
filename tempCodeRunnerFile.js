@@ -1,0 +1,1 @@
+'${this.previousOperand} ${this.operation}'
